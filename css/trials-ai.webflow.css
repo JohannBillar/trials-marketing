@@ -82,7 +82,7 @@
 
 .section {
   padding-top: 150px;
-  padding-bottom: 150px;
+  /* padding-bottom: 150px; */
   background-color: transparent;
 }
 
@@ -655,7 +655,7 @@
   }
   .section {
     padding-top: 100px;
-    padding-bottom: 100px;
+    /* padding-bottom: 100px; */
   }
   .section.black.header {
     padding-top: 75px;
